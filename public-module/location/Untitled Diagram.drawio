@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
-    <mxGraphModel dx="1420" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,6 +106,40 @@
         </mxCell>
         <mxCell id="sY7jtk7sxgQmFmKm8Wxy-9" value="Amazon S3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="440" y="1890" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sY7jtk7sxgQmFmKm8Wxy-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="989" y="934" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-13" value="channel" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="920" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-14" value="template" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="840" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="819" y="659" width="200" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-24" value="rule" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="sY7jtk7sxgQmFmKm8Wxy-16">
+          <mxGeometry x="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-17" value="Job" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="813" y="634" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-18" value="Tenant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="730" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.408;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sY7jtk7sxgQmFmKm8Wxy-18" target="sY7jtk7sxgQmFmKm8Wxy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-20" value="JobId&lt;div&gt;Payload&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sY7jtk7sxgQmFmKm8Wxy-19">
+          <mxGeometry x="-0.2653" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sY7jtk7sxgQmFmKm8Wxy-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="961" y="934" width="47.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
