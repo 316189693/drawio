@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2423" dy="1513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2423" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,21 +209,6 @@
         </mxCell>
         <mxCell id="N1l4OAX-qYFVaWnJhM8D-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.393;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-1" source="JBz1LGaFAPbWuUoMEmRK-8" target="JBz1LGaFAPbWuUoMEmRK-10">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6VznK8FamonIp71yS6Q--1" value="Invoice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="-150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6VznK8FamonIp71yS6Q--8" value="invoice dashboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6VznK8FamonIp71yS6Q--9" value="EDI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="-150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6VznK8FamonIp71yS6Q--10" value="BNP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="-150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6VznK8FamonIp71yS6Q--27" value="Cron job&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
