@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2423" dy="1457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2423" dy="1513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,13 +173,13 @@
         <mxCell id="N1l4OAX-qYFVaWnJhM8D-63" value="export" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="71" y="1110" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N1l4OAX-qYFVaWnJhM8D-64" value="Invoice EDI" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="N1l4OAX-qYFVaWnJhM8D-64" value="Invoice EDI(invoice file to ftp)" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="71" y="1182" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N1l4OAX-qYFVaWnJhM8D-65" value="Invoice 210" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="450" y="1182" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N1l4OAX-qYFVaWnJhM8D-66" value="Email" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="N1l4OAX-qYFVaWnJhM8D-66" value="Email(invoice file to email)" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="264" y="1182" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="BNP" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
